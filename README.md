@@ -1,6 +1,6 @@
-# Smart_Lead_Scoring_Engine (JOB-A-THON - June 2022)
+# Smart Lead Scoring Engine 
 
-## Smart Lead Scoring Engine
+## Smart Lead Scoring Engine (JOB-A-THON - June 2022)
 
 Can you identify the potential leads for a D2C startup?
 
